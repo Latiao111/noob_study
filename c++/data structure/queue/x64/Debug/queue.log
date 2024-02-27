@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\24070\Desktop\部分项目\all code\study pointer\data structure\queue\main.cpp(32): warning C4715: “Input”: 不是所有的控件路径都返回值
+C:\Users\24070\Desktop\部分项目\all code\study pointer\data structure\queue\main.cpp(40): warning C4715: “Output”: 不是所有的控件路径都返回值
+  queue.vcxproj -> C:\Users\24070\Desktop\部分项目\all code\study pointer\data structure\x64\Debug\queue.exe
